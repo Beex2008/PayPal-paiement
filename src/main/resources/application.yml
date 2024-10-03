@@ -1,1 +1,5 @@
-spring.application.name=paypal-integration
+paypal:
+  client:
+    id: AYLzsUVEDX5yZA7lZ6vvSORVFqObBwSUHutdGDx3YLzHDfizYA5tEYz17ojBzIaIT96gXCSUqDz1HVJ9
+    secret: EORvanTj9JJ9JhUdQLYXdE-YpNET4eXaYU2OHeYU_8g_U0kPU3JJ_P9p_6xvSvj85AJjitKnQ_vM9T77
+    mode: sandbox # use sandbox for testing and live for prod
